@@ -1,0 +1,29 @@
+{
+  "room_name": "patient-test-84be6eea93f4",
+  "output_name": "20261116_170458_interruption",
+  "sample_rate": 48000,
+  "channels": {
+    "left": "AI patient",
+    "right": "Receptionist"
+  },
+  "participant_identities": {
+    "patient": "agent-AJ_9FrNNULxfgAU",
+    "receptionist": "assessment-receptionist"
+  },
+  "patient_audio": {
+    "peak_dbfs": -1.47,
+    "rms_dbfs": -32.25,
+    "active_seconds": 53.24,
+    "duration_seconds": 297.19,
+    "has_audio_activity": true
+  },
+  "receptionist_audio": {
+    "peak_dbfs": -2.29,
+    "rms_dbfs": -26.63,
+    "active_seconds": 96.04,
+    "duration_seconds": 297.19,
+    "has_audio_activity": true
+  },
+  "both_sides_have_audio_activity": true,
+  "requires_manual_review": true
+}

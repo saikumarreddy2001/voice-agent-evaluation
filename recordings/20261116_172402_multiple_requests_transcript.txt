@@ -1,0 +1,75 @@
+Recording: 20261116_172402_multiple_requests.wav
+Duration: 308.19 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0011.00] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0029.20] AI PATIENT: Hi, I'd like to schedule an appointment, and I also have a question about insurance.
+[0011.00 - 0014.00] RECEPTIONIST: Para Español, oprima el 2.
+[0014.00 - 0017.00] RECEPTIONIST: Thank you for calling.
+[0017.00 - 0020.00] RECEPTIONIST: Would you like to create a...
+[0020.00 - 0023.00] RECEPTIONIST: Hi there! How can I help you today?
+[0029.20 - 0044.00] AI PATIENT: Yes, I would like to create a demo patient profile.
+[0031.00 - 0033.00] RECEPTIONIST: I can help with both.
+[0033.00 - 0036.00] RECEPTIONIST: Would you like to create a demo patient profile first?
+[0036.00 - 0039.00] RECEPTIONIST: I just need your first and last name to get started.
+[0044.00 - 0053.84] AI PATIENT: My first name is Alex, and my last name is Morgan.
+[0051.00 - 0053.00] RECEPTIONIST: Your demo patient profile is set up,
+[0053.00 - 0057.00] RECEPTIONIST: and your date of birth is July 4, 2000 for demo purposes.
+[0053.84 - 0066.24] AI PATIENT: Actually, my date of birth is January 15th, 1995.
+[0057.00 - 0059.00] RECEPTIONIST: How may I help you today?
+[0066.24 - 0068.52] AI PATIENT: Can we proceed with that for the profile?
+[0068.52 - 0071.64] AI PATIENT: Also, I would like to schedule an appointment.
+[0071.64 - 0084.96] AI PATIENT: What availability do you have?
+[0075.00 - 0077.00] RECEPTIONIST: Let me check the schedule for you.
+[0077.00 - 0080.00] RECEPTIONIST: First, what is the main reason for your visit?
+[0080.00 - 0083.00] RECEPTIONIST: This helps me find the right type of appointment.
+[0084.96 - 0086.20] AI PATIENT: I need a general checkup.
+[0087.00 - 0090.00] RECEPTIONIST: Do you have a specific...
+[0090.00 - 0101.22] RECEPTIONIST: provider you'd like to see, or are you open to any available provider?
+[0090.00 - 0115.60] AI PATIENT: I'm open to any available provider.
+[0101.22 - 0105.74] RECEPTIONIST: You already have a general checkup booked for Tuesday, November 17th at 9 a.m. with
+[0105.74 - 0112.18] RECEPTIONIST: Dr. Zbigniew Likoski at Pivot Point Orthopedics. Would you like to keep this appointment, reschedule
+[0112.22 - 0119.22] RECEPTIONIST: it, or cancel it? You have two upcoming appointments on file. One is tomorrow, Tuesday, November
+[0115.60 - 0118.18] AI PATIENT: I didn't confirm that appointment.
+[0118.18 - 0140.30] AI PATIENT: Could you check if it can be rescheduled instead?
+[0128.46 - 0134.46] RECEPTIONIST: 17th at 9 a.m. with Dr. Zbigniew Likoski, and the other is Thursday, November 19th at
+[0134.46 - 0141.46] RECEPTIONIST: 9 a.m. with Apricar. Which of these would you like to reschedule?
+[0140.30 - 0142.58] AI PATIENT: I believe there's a misunderstanding.
+[0142.58 - 0145.34] AI PATIENT: I don't have appointments currently booked.
+[0143.18 - 0150.18] RECEPTIONIST: Let's go ahead and schedule a new appointment for your general checkup. Just to confirm,
+[0145.34 - 0155.42] AI PATIENT: Can we just schedule a new appointment for a checkup?
+[0155.42 - 0158.30] AI PATIENT: Great.
+[0158.30 - 0161.42] AI PATIENT: I'm waiting for the available dates for the general checkup.
+[0163.30 - 0168.70] RECEPTIONIST: one moment while I fetch the available dates for your general checkup. You already have
+[0168.70 - 0174.34] RECEPTIONIST: a general checkup scheduled for Tuesday, November 17th at 9 a.m. with Dr. Zbigniew
+[0174.34 - 0181.34] RECEPTIONIST: Likoski at Pivot Point Orthopedics. I'm unable to book another checkup of the same type.
+[0180.00 - 0190.32] AI PATIENT: I understand now. I didn't mean to confuse things. I would like to reschedule the appointment
+[0180.00 - 0195.92] RECEPTIONIST: Would you like to reschedule or cancel this appointment instead?
+[0190.32 - 0192.80] AI PATIENT: for a different date. What options do you have available?
+[0195.92 - 0197.72] RECEPTIONIST: You have two appointments coming up.
+[0197.72 - 0205.60] RECEPTIONIST: One on Tuesday, November 17th at 9 a.m. with Dr. Zbigniew Likoski and another on Thursday,
+[0205.60 - 0209.00] RECEPTIONIST: November 19th at 9 a.m. with Averker.
+[0209.00 - 0226.52] RECEPTIONIST: Which one would you like to reschedule?
+[0210.00 - 0218.40] AI PATIENT: I would like to reschedule the appointment on Tuesday, November 17th at 9 a.m. with Dr.
+[0218.40 - 0222.56] AI PATIENT: Zbigniew Likoski. What are the available dates?
+[0226.52 - 0231.08] RECEPTIONIST: There are openings with Dr. Zbigniew Likoski at the Nashville location.
+[0231.08 - 0235.28] RECEPTIONIST: The next opening is Wednesday, November 18th at 9 a.m.
+[0235.28 - 0238.54] RECEPTIONIST: Would you like to move your appointment to that time or would you prefer a different day
+[0238.54 - 0251.78] RECEPTIONIST: or time of day?
+[0240.96 - 0248.16] AI PATIENT: Yes, let's move the appointment to Wednesday, November 18th at 9 a.m. with Dr. Zbigniew.
+[0248.80 - 0249.36] AI PATIENT: Thank you.
+[0251.78 - 0256.12] RECEPTIONIST: Before I reschedule, can you tell me the reason you need to move your appointment?
+[0256.12 - 0267.66] RECEPTIONIST: For example, is it a scheduled conflict, illness, or something else?
+[0261.36 - 0265.36] AI PATIENT: It's just a schedule conflict. I can't make it on the original date.
+[0267.66 - 0270.06] RECEPTIONIST: Would you like to move your appointment to Wednesday, November 18th at 9 a.m.?
+[0270.00 - 0279.84] AI PATIENT: Yes, that's correct.
+[0270.00 - 0283.36] RECEPTIONIST: 18th at 9 a.m. with Dr. Zbigniew Lukoski at the Nashville location. Is that correct?
+[0279.84 - 0290.00] AI PATIENT: Please go ahead and reschedule it.
+[0283.36 - 0289.84] RECEPTIONIST: I'm processing your reschedule now. One moment while I update your appointment. Your appointment
+[0289.84 - 0302.48] RECEPTIONIST: has been rescheduled. Your appointment is now scheduled. Your appointment is now scheduled.
+[0290.00 - 0291.00] AI PATIENT: Thank you.
+[0291.00 - 0296.00] AI PATIENT: I think the message has been sent.
+[0296.00 - 0298.96] AI PATIENT: It seems like there was a problem.
+[0298.96 - 0300.96] AI PATIENT: It looks like the message cut off.

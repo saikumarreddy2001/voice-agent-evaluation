@@ -1,0 +1,29 @@
+{
+  "room_name": "patient-test-50c94bc0332a",
+  "output_name": "20261116_165056_insurance",
+  "sample_rate": 48000,
+  "channels": {
+    "left": "AI patient",
+    "right": "Receptionist"
+  },
+  "participant_identities": {
+    "patient": "agent-AJ_UezY6Kt3MgBK",
+    "receptionist": "assessment-receptionist"
+  },
+  "patient_audio": {
+    "peak_dbfs": -2.82,
+    "rms_dbfs": -31.17,
+    "active_seconds": 37.62,
+    "duration_seconds": 195.78,
+    "has_audio_activity": true
+  },
+  "receptionist_audio": {
+    "peak_dbfs": -2.32,
+    "rms_dbfs": -26.7,
+    "active_seconds": 61.34,
+    "duration_seconds": 195.78,
+    "has_audio_activity": true
+  },
+  "both_sides_have_audio_activity": true,
+  "requires_manual_review": true
+}

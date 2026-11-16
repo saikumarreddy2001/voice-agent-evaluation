@@ -1,0 +1,29 @@
+{
+  "room_name": "patient-test-190b4ced0886",
+  "output_name": "20261116_161528_appointment",
+  "sample_rate": 48000,
+  "channels": {
+    "left": "AI patient",
+    "right": "Receptionist"
+  },
+  "participant_identities": {
+    "patient": "agent-AJ_F3cHtmmMDT88",
+    "receptionist": "assessment-receptionist"
+  },
+  "patient_audio": {
+    "peak_dbfs": -1.54,
+    "rms_dbfs": -32.7,
+    "active_seconds": 38.02,
+    "duration_seconds": 221.76,
+    "has_audio_activity": true
+  },
+  "receptionist_audio": {
+    "peak_dbfs": -2.68,
+    "rms_dbfs": -27.14,
+    "active_seconds": 68.06,
+    "duration_seconds": 221.76,
+    "has_audio_activity": true
+  },
+  "both_sides_have_audio_activity": true,
+  "requires_manual_review": true
+}

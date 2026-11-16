@@ -1,0 +1,22 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE files
+.idea/
+.vscode/
+.cursor/
+
+# Temporary files
+*.log
+*.wav

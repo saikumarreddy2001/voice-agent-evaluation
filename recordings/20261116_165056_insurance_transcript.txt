@@ -1,0 +1,48 @@
+Recording: 20261116_165056_insurance.wav
+Duration: 195.78 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0015.64] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0028.76] AI PATIENT: Yes, I'd like to create a demo patient profile.
+[0015.64 - 0018.44] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics.
+[0018.44 - 0021.32] RECEPTIONIST: Would you like to create a demo patient profile today?
+[0021.32 - 0035.64] RECEPTIONIST: I just need your first and last name to get started.
+[0028.76 - 0031.68] AI PATIENT: My first name is Alex, and my last name is Morgan.
+[0035.64 - 0055.86] RECEPTIONIST: Your demo patient profile is set up and your date of birth is July 4, 2000 for this demo.
+[0043.12 - 0046.52] AI PATIENT: I think there might be a mistake with the date of birth.
+[0046.52 - 0052.20] AI PATIENT: My date of birth is actually January 15, 1995.
+[0052.20 - 0053.16] AI PATIENT: Can we correct that?
+[0055.86 - 0060.22] RECEPTIONIST: I can't update the date of birth directly, but I can let our clinic support team know
+[0058.76 - 0070.40] AI PATIENT: Yes, please document it for follow-up.
+[0060.22 - 0062.26] RECEPTIONIST: about the correction you need.
+[0062.26 - 0081.96] RECEPTIONIST: Would you like me to document this for follow-up?
+[0070.40 - 0071.48] AI PATIENT: Thank you.
+[0071.48 - 0073.16] AI PATIENT: While we're at it, could you let me
+[0073.16 - 0076.80] AI PATIENT: know how I can check whether my insurance is accepted?
+[0081.96 - 0086.20] RECEPTIONIST: I've documented your request to correct your date of birth and to check if your insurance
+[0086.20 - 0087.56] RECEPTIONIST: is accepted.
+[0087.56 - 0090.04] RECEPTIONIST: Our clinic support team will follow up with you as soon as
+[0090.00 - 0099.72] AI PATIENT: Thank you for documenting that. I actually still need to know how I can verify whether
+[0090.00 - 0108.00] RECEPTIONIST: they can. Is there anything else I can help you with today?
+[0099.72 - 0105.20] AI PATIENT: my insurance plan is accepted. Do I need to provide a member ID or any other details for
+[0105.20 - 0105.48] AI PATIENT: that?
+[0108.00 - 0113.40] RECEPTIONIST: You can verify if your insurance is accepted by providing your insurance details such as
+[0113.40 - 0117.70] RECEPTIONIST: your member ID and the name of your insurance plan. The clinic support team will review
+[0117.70 - 0122.50] RECEPTIONIST: your information and confirm coverage for you. Would you like to provide your insurance
+[0120.00 - 0132.92] AI PATIENT: I don't have my exact insurance plan details or a member ID right now. Is there another
+[0122.50 - 0140.12] RECEPTIONIST: details now so I can pass them along? If you don't have your insurance details handy, you
+[0132.92 - 0134.36] AI PATIENT: way to check whether it's accepted?
+[0140.12 - 0144.62] RECEPTIONIST: can call the clinic later with your plan information or check with your insurance provider to see
+[0144.62 - 0150.38] RECEPTIONIST: if Pivot Point Orthopedics is in network. The clinic accepts most major insurance plans,
+[0150.00 - 0168.00] AI PATIENT: Yes, please. I'd appreciate it if you could provide the clinic's phone number.
+[0150.38 - 0154.58] RECEPTIONIST: so there's a good chance yours is covered. Would you like the clinic's phone number for
+[0154.58 - 0171.66] RECEPTIONIST: when you're ready? The clinic's phone number is 414-360-8649. Is there anything else you'd
+[0168.00 - 0180.00] AI PATIENT: No? That's all for now. Thank you for your help. Have a great day.
+[0171.66 - 0177.66] RECEPTIONIST: like help with?
+[0180.00 - 0182.00] AI PATIENT: Did you have a great day?
+[0180.00 - 0183.72] RECEPTIONIST: Youíre welcome.
+[0183.72 - 0184.72] RECEPTIONIST: Take care.
+[0184.72 - 0185.72] RECEPTIONIST: Thank you.
+[0186.00 - 0188.00] AI PATIENT: Goodbye.

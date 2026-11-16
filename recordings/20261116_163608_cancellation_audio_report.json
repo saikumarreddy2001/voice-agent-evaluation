@@ -1,0 +1,29 @@
+{
+  "room_name": "patient-test-7cb44be19600",
+  "output_name": "20261116_163608_cancellation",
+  "sample_rate": 48000,
+  "channels": {
+    "left": "AI patient",
+    "right": "Receptionist"
+  },
+  "participant_identities": {
+    "patient": "agent-AJ_43nkJSaQeiWo",
+    "receptionist": "assessment-receptionist"
+  },
+  "patient_audio": {
+    "peak_dbfs": -2.85,
+    "rms_dbfs": -31.11,
+    "active_seconds": 33.92,
+    "duration_seconds": 153.79,
+    "has_audio_activity": true
+  },
+  "receptionist_audio": {
+    "peak_dbfs": -1.94,
+    "rms_dbfs": -26.8,
+    "active_seconds": 44.48,
+    "duration_seconds": 153.79,
+    "has_audio_activity": true
+  },
+  "both_sides_have_audio_activity": true,
+  "requires_manual_review": true
+}

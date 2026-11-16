@@ -1,0 +1,51 @@
+Recording: 20261116_161528_appointment.wav
+Duration: 221.76 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0015.76] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0028.00] AI PATIENT: I'd like to schedule a routine appointment, please.
+[0015.76 - 0018.76] RECEPTIONIST: Thank you for calling.
+[0018.76 - 0019.76] RECEPTIONIST: Hello.
+[0019.76 - 0026.76] RECEPTIONIST: How can I help you today?
+[0026.76 - 0033.32] RECEPTIONIST: To get started, would you like to create a demo patient profile?
+[0028.00 - 0051.00] AI PATIENT: Yes, my first name is Alex, and my last name is Morgan.
+[0033.32 - 0045.32] RECEPTIONIST: I just need your first and last name.
+[0045.32 - 0051.52] RECEPTIONIST: Your patient profile is set up and your date of birth is July 4, 2000 for demo purposes.
+[0051.00 - 0064.00] AI PATIENT: I actually want to clarify that my date of birth is January 15, 1995.
+[0051.52 - 0071.24] RECEPTIONIST: How may it all be today?
+[0064.00 - 0073.00] AI PATIENT: Could you please check if my demo patient profile exists with that information?
+[0071.24 - 0074.64] RECEPTIONIST: Just to confirm, you'd like to schedule a routine appointment.
+[0073.00 - 0085.00] AI PATIENT: Yes, it's for a general checkup. I'd prefer an appointment on Friday after 3 p.m.
+[0074.64 - 0089.00] RECEPTIONIST: Is this for a general checkup or another non-urgent concern?
+[0089.00 - 0090.00] RECEPTIONIST: There are openings.
+[0090.00 - 0096.60] RECEPTIONIST: Friday with Dr. Zbigniew Lukoski and Dr. Kelly Noble. The first available slot after 3 p.m.
+[0090.00 - 0108.60] AI PATIENT: I would prefer not to book an appointment at 3pm.
+[0096.60 - 0112.44] RECEPTIONIST: is at 3 p.m. with Dr. Lukoski. Would you like to book that time?
+[0108.60 - 0116.44] AI PATIENT: Is there a time available after that?
+[0112.44 - 0118.68] RECEPTIONIST: The next available slot after 3 p.m. is at 3.30 p.m. with Dr. Zbigniew Lukoski. Would
+[0116.44 - 0129.08] AI PATIENT: Yes, I would like to book the appointment with Dr. Zebigniew Lukowski at 3.30pm this
+[0118.68 - 0136.60] RECEPTIONIST: you like to book the 3.30 p.m. appointment? Your appointment is set for Friday, November
+[0129.08 - 0130.08] AI PATIENT: Friday.
+[0130.08 - 0130.28] AI PATIENT: Thank you.
+[0136.60 - 0143.28] RECEPTIONIST: 20th at 3.30 p.m. with Dr. Zbigniew Lukoski at Pivot Point Orthopedics. Please bring your
+[0138.60 - 0159.56] AI PATIENT: Just to clarify, could you confirm that the appointment is for this Friday, not November
+[0143.28 - 0149.58] RECEPTIONIST: photo ID, insurance card, a list of your current medications, and any imaging discs
+[0149.58 - 0164.82] RECEPTIONIST: you have. Would you like me to text you these appointment details?
+[0159.56 - 0161.68] AI PATIENT: 20th, since that date is in the past?
+[0161.68 - 0162.20] AI PATIENT: Thank you.
+[0164.82 - 0171.06] RECEPTIONIST: Your appointment is for this Friday, November 20th, 2026 at 3.30 p.m. with Dr. Zbigniew
+[0168.60 - 0183.64] AI PATIENT: I would like to confirm that the appointment is for this Friday, not November 20th, since
+[0171.06 - 0178.22] RECEPTIONIST: Lukoski. Today is Monday, November 16th, 2026, so November 20th is this coming Friday.
+[0178.22 - 0179.98] RECEPTIONIST: Let me know if you have any other questions or if you'd like
+[0180.00 - 0186.00] AI PATIENT: Thank you for clarifying.
+[0180.00 - 0195.12] RECEPTIONIST: a text with your appointment details. I sent the appointment details to your phone ending
+[0183.64 - 0184.64] AI PATIENT: that date is in the past.
+[0184.64 - 0185.64] AI PATIENT: Thank you.
+[0186.00 - 0190.00] AI PATIENT: Yes, please send me a text with the appointment details.
+[0195.12 - 0209.28] RECEPTIONIST: in 8649. Let me know if you need anything else. You're welcome. Have a great day.
+[0200.00 - 0202.00] AI PATIENT: I appreciate your help.
+[0202.00 - 0203.00] AI PATIENT: That's all for now.
+[0203.00 - 0206.00] AI PATIENT: Thank you and have a great day.
+[0210.00 - 0212.00] AI PATIENT: Goodbye.

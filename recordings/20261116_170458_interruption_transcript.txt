@@ -1,0 +1,68 @@
+Recording: 20261116_170458_interruption.wav
+Duration: 297.19 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0015.06] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0028.00] AI PATIENT: My first name is Alex and my last name is Morgan.
+[0015.06 - 0017.52] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics.
+[0017.52 - 0019.68] RECEPTIONIST: Would you like to create a demo patient profile?
+[0020.40 - 0022.20] RECEPTIONIST: I just need your first and last name to get started.
+[0028.00 - 0047.00] AI PATIENT: I actually prefer my date of birth to be January 15th, 1995.
+[0031.76 - 0034.28] RECEPTIONIST: Your patient profile has been created.
+[0034.28 - 0038.44] RECEPTIONIST: Your date of birth is July 4, 2000 for demo purposes.
+[0038.44 - 0039.48] RECEPTIONIST: How may I help you today?
+[0047.00 - 0063.00] AI PATIENT: Could you check if that's the one in my demo patient profile?
+[0049.68 - 0057.44] RECEPTIONIST: I have your date of birth as July 4, 2000 in your demo patient profile.
+[0057.44 - 0060.88] RECEPTIONIST: Would you like me to update it to January 15, 1995?
+[0063.00 - 0069.00] AI PATIENT: Yes, please update it to January 15th, 1995. Thank you.
+[0069.00 - 0086.00] AI PATIENT: Now, I'd like to schedule an appointment for Tuesday.
+[0075.44 - 0077.76] RECEPTIONIST: What kind of appointment do you need on Tuesday?
+[0077.76 - 0081.48] RECEPTIONIST: For example, is this for a routine visit, a follow-up,
+[0081.48 - 0084.40] RECEPTIONIST: a new patient consultation, a procedure, or something else?
+[0086.00 - 0089.00] AI PATIENT: I need a routine visit for Tuesday, please.
+[0090.00 - 0096.54] RECEPTIONIST: Do you have a specific provider you'd like to see for your routine visit or are you open
+[0090.00 - 0103.00] AI PATIENT: I'm open to any available provider for my routine visit.
+[0096.54 - 0111.30] RECEPTIONIST: to any available provider?
+[0111.30 - 0116.34] RECEPTIONIST: You already have a routine office visit booked with Dr. Zagbingue-Lukowski on Friday, November
+[0116.34 - 0120.26] RECEPTIONIST: 20th at 3.30 p.m. at Pivot Point Orthopedics.
+[0120.00 - 0131.00] AI PATIENT: Actually, I meant to say Thursday, not Tuesday.
+[0120.26 - 0124.62] RECEPTIONIST: Would you like to keep this appointment, reschedule it to Tuesday, or cancel it?
+[0124.62 - 0139.06] RECEPTIONIST: Let me know how you'd like to proceed.
+[0131.00 - 0134.00] AI PATIENT: Could I reschedule my appointment to Thursday instead?
+[0139.06 - 0143.46] RECEPTIONIST: You have a routine office visit scheduled with Dr. Zagbingue-Lukowski on Friday, November
+[0143.46 - 0147.54] RECEPTIONIST: 20th at 3.30 p.m. at Pivot Point Orthopedics.
+[0147.54 - 0150.70] RECEPTIONIST: I can help you move this appointment to Thursday instead.
+[0150.00 - 0162.00] AI PATIENT: I just realized I have a conflict on Tuesday, so I need to move it to Thursday. Thank you for your help.
+[0150.70 - 0163.42] RECEPTIONIST: Can you tell me the reason you need to reschedule?
+[0163.42 - 0166.94] RECEPTIONIST: Let me check for available times on Thursday to move your appointment.
+[0166.94 - 0169.62] RECEPTIONIST: One moment while I find the options for you.
+[0169.62 - 0170.62] RECEPTIONIST: You're welcome.
+[0170.62 - 0175.10] RECEPTIONIST: Before we finish, your appointment is still on the schedule for Friday, November 20th
+[0175.10 - 0177.34] RECEPTIONIST: at 3.30 p.m.
+[0177.34 - 0179.94] RECEPTIONIST: Would you like to keep it as is or would you like to cancel it?
+[0180.00 - 0186.00] AI PATIENT: I'd like to reschedule my appointment to Thursday, please.
+[0180.00 - 0196.16] RECEPTIONIST: The next opening on Thursday is November 19th at 9 a.m. with Dr. Zignu Lukosky at Pivot
+[0186.00 - 0188.00] AI PATIENT: I'd prefer not to keep it on Friday.
+[0196.16 - 0197.88] RECEPTIONIST: Point Orthopedics.
+[0197.88 - 0204.00] RECEPTIONIST: Would you like to move your appointment to that time or would you prefer a later slot?
+[0203.00 - 0209.00] AI PATIENT: I'd like to move my appointment to Thursday, November 19th at 9am with Dr. Zygmunt Lukoski.
+[0204.00 - 0216.16] RECEPTIONIST: Just to confirm, you'd like to move your appointment to Thursday, November 19th at
+[0209.00 - 0210.00] AI PATIENT: Thank you.
+[0216.16 - 0230.24] RECEPTIONIST: 9 a.m. with Dr. Zignu Lukosky at Pivot Point Orthopedics, is that correct?
+[0228.00 - 0234.00] AI PATIENT: Actually, it's with Dr. Zygmunt Lukoski, not Zbigniew, and at Pivot Point Orthopaedics.
+[0230.24 - 0248.08] RECEPTIONIST: Your appointment has been moved to Thursday, November 19th at 9 a.m. with Dr. Zignu Lukosky
+[0234.00 - 0236.00] AI PATIENT: But yes, that's correct.
+[0239.00 - 0259.00] AI PATIENT: I believe you meant to say Dr. Zygmunt Lukoski, not Zbigniew.
+[0248.08 - 0250.64] RECEPTIONIST: at Pivot Point Orthopedics.
+[0250.64 - 0266.16] RECEPTIONIST: Would you like me to send you a text message with these details?
+[0259.00 - 0263.00] AI PATIENT: Yes, please send me a text message with the appointment details.
+[0263.00 - 0264.00] AI PATIENT: Thank you.
+[0266.16 - 0270.04] RECEPTIONIST: I've already sent a text message with your updated appointment details to your phone.
+[0269.00 - 0275.00] AI PATIENT: I'd like to reschedule my appointment to Thursday, November 19th at 9am with Dr. Zygmunt Lukoski.
+[0270.00 - 0280.00] AI PATIENT: Thank you. I appreciate your help. I don't need anything else for now. Goodbye.
+[0270.00 - 0282.88] RECEPTIONIST: ending in 8649. Let me know if you need anything else.
+[0275.00 - 0276.00] AI PATIENT: Thank you.
+[0280.00 - 0290.00] AI PATIENT: Thank you. You too. Goodbye.
+[0282.88 - 0285.36] RECEPTIONIST: You're all set. Have a great day. Goodbye.

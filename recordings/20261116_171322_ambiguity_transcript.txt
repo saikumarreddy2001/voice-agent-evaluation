@@ -1,0 +1,77 @@
+Recording: 20261116_171322_ambiguity.wav
+Duration: 308.21 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0014.96] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0019.04] AI PATIENT: Hi, I need to see your welcome.
+[0014.96 - 0022.88] RECEPTIONIST: Thank you for...
+[0019.04 - 0020.68] AI PATIENT: What information do you need from me?
+[0022.88 - 0026.40] RECEPTIONIST: To get started, would you like to create a demo patient profile?
+[0026.40 - 0040.80] RECEPTIONIST: I just need your first and last name.
+[0031.00 - 0033.36] AI PATIENT: Yes, I would like to create a demo patient profile.
+[0033.36 - 0050.20] AI PATIENT: My first name is Alex, and my last name is Morgan.
+[0040.80 - 0047.36] RECEPTIONIST: Your demo patient profile is set up and your date of birth is July 4th, 2000 for demo purposes.
+[0047.36 - 0054.36] RECEPTIONIST: How may I help you today?
+[0050.20 - 0056.64] AI PATIENT: I actually intended for my date of birth to be January 15, 1995.
+[0054.36 - 0069.36] RECEPTIONIST: Thanks for letting me know your date of birth is January 15th, 1995.
+[0056.64 - 0058.28] AI PATIENT: Can we update that?
+[0058.64 - 0061.08] AI PATIENT: Also, I'd like to request a routine appointment.
+[0069.36 - 0081.00] RECEPTIONIST: For your routine appointment, is this for a general checkup or another non-urgent concern?
+[0075.84 - 0077.08] AI PATIENT: It's for a general checkup.
+[0081.00 - 0085.24] RECEPTIONIST: Do you have a specific provider you'd like to see or are you open to any available provider
+[0085.24 - 0090.24] RECEPTIONIST: for your general checkup?
+[0088.28 - 0090.36] AI PATIENT: I'm open to any available providers.
+[0090.00 - 0092.00] AI PATIENT: for my general check-up.
+[0090.00 - 0099.74] RECEPTIONIST: You already have a general checkup scheduled with Dr. Z. Bignew-Lukosky on Thursday, November
+[0099.74 - 0103.62] RECEPTIONIST: 19th at 9 a.m. at Pivot Point Orthopedics.
+[0103.62 - 0118.46] RECEPTIONIST: Would you like to keep this appointment, reschedule it, or cancel it?
+[0110.00 - 0113.00] AI PATIENT: I didn't actually say that I had an appointment booked.
+[0113.00 - 0116.00] AI PATIENT: I'd like to schedule a new general check-up instead.
+[0118.46 - 0124.50] RECEPTIONIST: You already have a general checkup booked for November 19th at 9 a.m. with Dr. Z. Bignew-Lukosky
+[0120.00 - 0141.00] AI PATIENT: I apologize for the confusion, but I didn't mean to indicate I had a previous appointment.
+[0124.50 - 0126.82] RECEPTIONIST: at Pivot Point Orthopedics.
+[0126.82 - 0130.90] RECEPTIONIST: I can help you reschedule or cancel this appointment if you'd like, but I can't book a second one
+[0130.90 - 0132.38] RECEPTIONIST: of the same type.
+[0132.38 - 0152.42] RECEPTIONIST: What would you like to do?
+[0141.00 - 0144.00] AI PATIENT: Could you please check if that appointment can be canceled?
+[0144.00 - 0147.00] AI PATIENT: Then, I'd like to schedule a new general check-up.
+[0150.00 - 0168.00] AI PATIENT: Yes, I'd like to cancel that appointment.
+[0152.42 - 0158.54] RECEPTIONIST: You have an appointment scheduled for Thursday, November 19th with Dr. Z. Bignew-Lukosky.
+[0158.54 - 0159.94] RECEPTIONIST: Would you like to cancel this appointment?
+[0159.94 - 0174.82] RECEPTIONIST: If so, can you tell me the reason for canceling?
+[0168.00 - 0171.00] AI PATIENT: The reason is that I didn't think I had one booked.
+[0171.00 - 0173.00] AI PATIENT: Thank you for your understanding.
+[0174.82 - 0180.30] RECEPTIONIST: Just to confirm, you want to cancel your appointment on Thursday, November 19th with Dr. Z. Bignew-Lukosky
+[0180.00 - 0192.88] AI PATIENT: I would like to cancel my appointment on Thursday, November 19th, with Drs. Bigmu-Lukowsky, because
+[0180.00 - 0198.96] RECEPTIONIST: Zygmunew-Lukosky, because you didn't think you had one book, is that correct?
+[0180.30 - 0181.30] RECEPTIONIST: at Pivot Point Orthopedics.
+[0181.30 - 0182.30] RECEPTIONIST: Would you like to cancel this appointment?
+[0182.30 - 0183.30] RECEPTIONIST: If so, can you tell me the reason for canceling?
+[0183.30 - 0184.30] RECEPTIONIST: Just to confirm, you want to cancel your appointment on Thursday, November 19th with Dr. Z. Bignew-Lukosky
+[0192.88 - 0201.00] AI PATIENT: I didn't think I had one booked.
+[0198.96 - 0204.60] RECEPTIONIST: Your appointment on Thursday, November 19th, with Dr. Zygmunew-Lukosky has been canceled.
+[0202.00 - 0221.00] AI PATIENT: Yes, I would like to schedule a new general check-up now.
+[0204.60 - 0215.74] RECEPTIONIST: Would you like to schedule a new general checkup now?
+[0215.74 - 0219.54] RECEPTIONIST: Just to confirm, you'd like to schedule a general checkup, which is a routine office
+[0219.54 - 0220.54] RECEPTIONIST: visit.
+[0220.54 - 0229.18] RECEPTIONIST: Is that right?
+[0221.00 - 0227.00] AI PATIENT: Yes, that's right. I'd like to schedule a general check-up.
+[0229.18 - 0233.34] RECEPTIONIST: Let me check the schedule for available times for a general checkup.
+[0233.34 - 0234.66] RECEPTIONIST: One moment.
+[0234.66 - 0241.46] RECEPTIONIST: There are several openings for a general checkup on Tuesday, November 17th, with Dr. Zygmunew-Lukosky
+[0241.46 - 0242.82] RECEPTIONIST: and Dr. Kelly Noble.
+[0242.82 - 0247.14] RECEPTIONIST: Do you have a preferred time of day, like morning or afternoon?
+[0247.14 - 0251.06] RECEPTIONIST: There are openings for a general checkup as soon as Tuesday, November 17th.
+[0251.00 - 0263.00] AI PATIENT: I would prefer a morning appointment on Tuesday, November 17th.
+[0251.06 - 0259.74] RECEPTIONIST: Would you prefer a morning or afternoon appointment, or do you have a specific time in mind?
+[0259.74 - 0269.90] RECEPTIONIST: The earliest morning slot is 9 a.m. on Tuesday, November 17th, with Dr. Zygmunew-Lukosky.
+[0270.00 - 0279.52] AI PATIENT: Yes, I would like to book the appointment for 9 a.m. on Tuesday, November 17th with
+[0270.00 - 0285.84] RECEPTIONIST: Would you like to book this time?
+[0279.52 - 0281.08] AI PATIENT: Drs. Bigmu-Lukowski.
+[0285.84 - 0293.08] RECEPTIONIST: Your appointment is set for Tuesday, November 17th at 9 a.m. with Dr. Zbigniew Lukoski at
+[0293.08 - 0295.16] RECEPTIONIST: Pivot Point Orthopedics.
+[0295.16 - 0300.10] RECEPTIONIST: Please bring your photo ID, insurance card, a list of your current medications, and any
+[0300.00 - 0320.00] AI PATIENT: I would like to book the appointment for 9 a.m. on Tuesday, November 17th with Drs.
+[0300.10 - 0302.04] RECEPTIONIST: imaging discs you have.

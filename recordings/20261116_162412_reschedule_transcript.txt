@@ -1,0 +1,46 @@
+Recording: 20261116_162412_reschedule.wav
+Duration: 192.72 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0014.96] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0029.56] AI PATIENT: Yes, I would like to create a demo patient profile.
+[0014.96 - 0017.60] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics.
+[0017.60 - 0021.08] RECEPTIONIST: Would you like to create a demo patient profile today?
+[0021.08 - 0036.00] RECEPTIONIST: I just need your first and last name to get started.
+[0029.56 - 0045.56] AI PATIENT: My first name is Alex and my last name is Morgan.
+[0036.00 - 0042.52] RECEPTIONIST: Your demo patient profile is set up and your date of birth is July 4, 2000 for demo purposes.
+[0042.52 - 0062.96] RECEPTIONIST: How may I help you today?
+[0045.56 - 0051.12] AI PATIENT: Actually, my date of birth is January 15th, 1995.
+[0051.12 - 0054.00] AI PATIENT: But I appreciate you setting up the profile.
+[0054.00 - 0056.32] AI PATIENT: I'd like to ask about rescheduling an appointment.
+[0056.32 - 0078.40] AI PATIENT: What information will you need to do that?
+[0062.96 - 0068.82] RECEPTIONIST: To reschedule your appointment, I'll just need to confirm your identity and find your
+[0068.82 - 0070.48] RECEPTIONIST: current appointment details.
+[0070.48 - 0073.82] RECEPTIONIST: I'll handle the rest and guide you through picking a new time.
+[0073.82 - 0087.26] RECEPTIONIST: Would you like to start the rescheduling process now?
+[0078.40 - 0080.04] AI PATIENT: I don't have an existing appointment,
+[0080.04 - 0083.24] AI PATIENT: but I'm asking about the process to reschedule one.
+[0083.24 - 0086.00] AI PATIENT: What do I need to provide to get started?
+[0087.26 - 0089.86] RECEPTIONIST: To reschedule an appointment, you'll need to provide
+[0090.00 - 0094.00] RECEPTIONIST: your name and date of birth so I can find your record. After that, I'll look up your
+[0090.00 - 0107.08] AI PATIENT: My name is Alex Morgan, and my date of birth is January 15, 1995.
+[0094.00 - 0116.52] RECEPTIONIST: current appointment and help you choose a new time. That's all you need to get started.
+[0107.08 - 0108.72] AI PATIENT: I'm ready to start the process.
+[0116.52 - 0122.48] RECEPTIONIST: You have an appointment scheduled for Friday, November 20th at 3.30 p.m. with Dr. Zbigniew
+[0120.00 - 0135.40] AI PATIENT: Actually, I'm just inquiring about the rescheduling process and don't have an existing appointment
+[0122.48 - 0144.28] RECEPTIONIST: Lukoski at Nashville 220 Athens Way. Is this the appointment you'd like to reschedule?
+[0135.40 - 0136.40] AI PATIENT: confirmed.
+[0136.40 - 0140.88] AI PATIENT: I appreciate you looking it up, but I want to know how the rescheduling works.
+[0140.88 - 0165.92] AI PATIENT: Can you explain that?
+[0144.28 - 0148.60] RECEPTIONIST: Of course. If you ever need to reschedule, I'll first confirm your identity and look
+[0148.60 - 0153.56] RECEPTIONIST: up your current appointment. Then I'll ask which appointment you want to move, help you
+[0153.56 - 0158.96] RECEPTIONIST: pick a new date and time, and confirm the change with you. Once you agree, I'll update
+[0158.96 - 0176.72] RECEPTIONIST: your appointment and share the new details. That's the whole process, quick and simple.
+[0165.92 - 0168.28] AI PATIENT: Thank you for explaining the process.
+[0168.28 - 0170.20] AI PATIENT: It sounds straightforward.
+[0170.20 - 0173.28] AI PATIENT: If I need to reschedule in the future, I'll have your steps in mind.
+[0176.72 - 0179.92] RECEPTIONIST: If you ever need to reschedule or have other questions, just let me know.
+[0180.00 - 0185.84] RECEPTIONIST: Have a great day!
+[0180.00 - 0186.08] AI PATIENT: Thank you, I appreciate your assistance.

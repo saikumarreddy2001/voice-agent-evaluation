@@ -1,0 +1,46 @@
+Recording: 20261116_163608_cancellation.wav
+Duration: 153.79 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0014.44] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0027.70] AI PATIENT: Yes, I would like to create a demo patient profile.
+[0014.44 - 0017.00] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics.
+[0017.00 - 0020.04] RECEPTIONIST: Would you like to create a demo patient profile?
+[0020.04 - 0034.64] RECEPTIONIST: I just need your first and last name to get started.
+[0027.70 - 0043.74] AI PATIENT: My first name is Alex and my last name is Morgan.
+[0034.64 - 0040.28] RECEPTIONIST: Your demo patient profile is set up and your date of birth is July 4, 2000.
+[0040.28 - 0059.60] RECEPTIONIST: How may I help you today?
+[0043.74 - 0047.78] AI PATIENT: I think there was a misunderstanding regarding the date of birth.
+[0047.78 - 0052.28] AI PATIENT: My date of birth is January 15th, 1995.
+[0052.28 - 0070.92] AI PATIENT: I have a question about canceling an appointment.
+[0059.60 - 0066.60] RECEPTIONIST: You have an upcoming appointment on Friday, November 20, with Dr. Zbigniew Lukoski.
+[0066.60 - 0081.32] RECEPTIONIST: Would you like to cancel this appointment?
+[0070.92 - 0072.80] AI PATIENT: I don't want to cancel an appointment.
+[0072.80 - 0075.44] AI PATIENT: I just want to understand the cancellation process.
+[0075.44 - 0077.28] AI PATIENT: What information do you need from me?
+[0077.28 - 0078.88] AI PATIENT: Is there a cancellation deadline?
+[0081.32 - 0085.96] RECEPTIONIST: To cancel an appointment, I usually need to confirm your identity and know which appointment
+[0085.96 - 0087.52] RECEPTIONIST: you want to cancel.
+[0087.52 - 0089.88] RECEPTIONIST: There is no strict cancellation deadline, but if
+[0090.00 - 0093.92] RECEPTIONIST: best to let us know as soon as possible so we can help other patients.
+[0090.00 - 0102.48] AI PATIENT: Thank you for the information.
+[0093.92 - 0097.32] RECEPTIONIST: If you have a specific appointment in mind, just tell me the date or provider, and I'll
+[0097.32 - 0105.36] RECEPTIONIST: walk you through the steps.
+[0102.48 - 0104.36] AI PATIENT: I understand now.
+[0104.36 - 0108.72] AI PATIENT: If I were to cancel an appointment, I'd need to confirm my identity and provide the appointment
+[0105.36 - 0117.04] RECEPTIONIST: Yes.
+[0108.72 - 0109.72] AI PATIENT: details.
+[0110.24 - 0128.80] AI PATIENT: Do I need to create a new demo patient profile if mine does not persist?
+[0117.04 - 0121.24] RECEPTIONIST: If your demo patient profile does not persist, you would need to create a new one each time
+[0121.24 - 0122.24] RECEPTIONIST: you call.
+[0122.24 - 0130.00] RECEPTIONIST: Let me know if you want to set up a new profile or need help with anything else.
+[0128.80 - 0130.60] AI PATIENT: I appreciate that.
+[0130.00 - 0138.32] RECEPTIONIST: You're welcome.
+[0130.60 - 0133.68] AI PATIENT: I don't need a new profile right now.
+[0133.68 - 0134.76] AI PATIENT: Thank you for your help.
+[0138.32 - 0140.96] RECEPTIONIST: If you have any other questions, just give us a call.
+[0140.72 - 0141.72] AI PATIENT: Thank you.
+[0140.96 - 0141.68] RECEPTIONIST: Have a great day!
+[0141.72 - 0142.72] AI PATIENT: You, too.

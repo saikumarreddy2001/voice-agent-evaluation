@@ -1,0 +1,41 @@
+Recording: 20261116_164351_refill.wav
+Duration: 143.91 seconds
+Automated transcript; verify against audio.
+AI PATIENT = left audio channel
+RECEPTIONIST = right audio channel
+
+[0000.00 - 0016.00] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[0000.00 - 0028.84] AI PATIENT: Yes, I'd like to create a demo patient profile.
+[0016.00 - 0018.60] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics.
+[0018.60 - 0021.10] RECEPTIONIST: Would you like to create a demo patient profile?
+[0021.10 - 0036.62] RECEPTIONIST: I just need your first and last name to get started.
+[0028.84 - 0047.40] AI PATIENT: My first name is Alex, and my last name is Morgan.
+[0036.62 - 0044.14] RECEPTIONIST: Your demo patient profile is set up and your date of birth is July 4, 2000 for this demo.
+[0044.14 - 0064.46] RECEPTIONIST: How may I help you today?
+[0047.40 - 0053.08] AI PATIENT: I actually provided my date of birth as January 15, 1995.
+[0053.08 - 0054.36] AI PATIENT: Could you please check that?
+[0054.40 - 0056.40] AI PATIENT: I have a question about prescription refills.
+[0064.46 - 0068.42] RECEPTIONIST: I don't see any medications on your chart that can be refilled right now.
+[0068.42 - 0084.22] RECEPTIONIST: If you'd like to speak with someone about this, just let me know.
+[0073.32 - 0077.80] AI PATIENT: I understand, but could you explain how patients request prescription refills?
+[0077.80 - 0081.04] AI PATIENT: Also, how long does the refill process normally take?
+[0084.22 - 0088.42] RECEPTIONIST: Patients can request prescription refills by calling the clinic or using this service.
+[0088.42 - 0090.02] RECEPTIONIST: The clinic reviews the request.
+[0090.00 - 0092.60] RECEPTIONIST: and if approved, sends it to your pharmacy.
+[0090.00 - 0103.36] AI PATIENT: Thank you for the information.
+[0092.60 - 0095.32] RECEPTIONIST: The process usually takes one to two business days,
+[0095.32 - 0097.68] RECEPTIONIST: but timing can vary depending on the medication
+[0097.68 - 0098.82] RECEPTIONIST: and provider review.
+[0103.36 - 0109.04] AI PATIENT: So to summarize, I can request a refill by either calling or using this service, and
+[0109.04 - 0113.20] AI PATIENT: it typically takes one to two business days for processing.
+[0113.20 - 0114.20] AI PATIENT: That's really helpful.
+[0114.20 - 0115.04] AI PATIENT: Thank you again.
+[0117.52 - 0118.64] RECEPTIONIST: You've got it.
+[0118.68 - 0121.48] RECEPTIONIST: If you have any other questions or need help in the future,
+[0120.00 - 0125.60] AI PATIENT: I appreciate that.
+[0121.48 - 0122.38] RECEPTIONIST: just let me know.
+[0125.60 - 0127.60] AI PATIENT: Thank you for your help today.
+[0127.60 - 0128.60] AI PATIENT: Goodbye.
+[0130.44 - 0131.32] RECEPTIONIST: Take care.
+[0131.32 - 0132.16] RECEPTIONIST: Goodbye.
+[0136.26 - 0137.10] RECEPTIONIST: Goodbye.
