@@ -13,6 +13,7 @@ import argparse
 import asyncio
 import json
 import os
+import re
 import uuid
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -57,10 +58,16 @@ def create_client():
     )
 
 
+_TRUNK_ID_RE = re.compile(r"^ST_[0-9A-Za-z]{12}$")
+
+
 def get_trunk_id():
     trunk_id = os.environ.get("LIVEKIT_OUTBOUND_TRUNK_ID", "").strip()
-    if not trunk_id.startswith("ST"):
-        raise ValueError("LIVEKIT_OUTBOUND_TRUNK_ID must be a LiveKit ST... trunk ID.")
+    if _TRUNK_ID_RE.fullmatch(trunk_id) is None:
+        raise ValueError(
+            "LIVEKIT_OUTBOUND_TRUNK_ID must be a LiveKit outbound "
+            "trunk ID: ST_ followed by 12 letters or digits."
+        )
     return trunk_id
 
 
